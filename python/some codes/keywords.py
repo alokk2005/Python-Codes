@@ -1,0 +1,39 @@
+# and
+# as 
+# assert 
+# async
+# await
+# break
+# class
+# continue
+# def
+# del
+# elif
+# else
+# except
+# finally
+# False
+# for
+# from
+# global
+# if
+# import
+# in
+# is
+# lambda
+# nonlocal
+# None
+# not
+# or
+# pass
+# raise
+# return
+# True
+# try
+# with
+# while
+# yield
+
+import keyword
+print(len(keyword.kwlist))  # Output: 35
+print(keyword.kwlist)  # List of all keywords
